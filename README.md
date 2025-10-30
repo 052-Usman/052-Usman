@@ -1,19 +1,20 @@
-<!-- Banner -->
+<!-- Header -->
 <h1 align="center">👋 Hey, I'm <span style="color:#58a6ff;">Usman Arshad Virk</span></h1>
 <h3 align="center">🚀 Full-Stack Developer | Cloud Enthusiast | AI Innovator</h3>
 
+<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Building+Scalable+AI-driven+Web+Apps;Cloud+%26+Serverless+Solution+Architect;Turning+Ideas+into+Digital+Reality" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Building+Scalable+AI-Driven+Apps;Crafting+Cloud+%26+Serverless+Solutions;Turning+Ideas+into+Digital+Reality" alt="Typing Animation" />
 </p>
 
 ---
 
 ### 🧠 About Me
 
-💻 I’m a **Full-Stack Developer** passionate about crafting **high-performance**, **scalable** applications.  
-☁️ Deeply interested in **AWS Cloud**, **serverless systems**, and **automation pipelines**.  
-🤖 Currently exploring **LLM-based tools**, **AI-driven marketing automation**, and **intelligent data systems**.  
-🎯 I love bringing **innovation**, **efficiency**, and **creativity** to every project I touch.
+💻 Passionate **Full-Stack Developer** focused on building **high-performance**, **AI-powered** web applications.  
+☁️ Skilled in **AWS**, **serverless systems**, and **DevOps automation**.  
+🧠 Exploring **LLM integrations**, **AI marketing tools**, and **data-driven automation**.  
+🎯 I thrive on designing systems that merge **intelligence**, **speed**, and **impact**.
 
 🌐 **Portfolio:** [usmanarshadvirk.vercel.app](https://usmanarshadvirk.vercel.app)
 
@@ -40,29 +41,29 @@
 
 ### 🌟 Featured Projects
 
-🎯 **Marketing Platform** – AI-driven marketing automation with real-time insights  
-🧩 **Transcribe & Analyze** – Transcript-based meeting intelligence system  
-🔍 **Search Sphere** – Secure HTTPS migration and site analytics dashboard  
-🧠 **Tech Detector API** – NestJS-based API using Puppeteer for tech signature detection  
+🎯 **Marketing Platform** – AI-driven marketing automation with real-time analytics  
+🧩 **Transcribe & Analyze** – Transcript-based meeting intelligence dashboard  
+🔍 **Search Sphere** – Secure HTTPS migration + analytics management  
+🧠 **Tech Detector API** – NestJS-based technology detection using Puppeteer  
 
-👉 Explore more: [github.com/052-Usman](https://github.com/052-Usman)
-
----
-
-### 📊 GitHub Performance
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=052-Usman&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=052-Usman&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=052-Usman&theme=tokyo-night&hide_border=true" />
-</p>
+👉 **More on GitHub:** [github.com/052-Usman](https://github.com/052-Usman)
 
 ---
 
-### 🌍 Let’s Connect!
+### 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=052-Usman&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" />
+  <img src="https://streak-stats.demolab.com?user=052-Usman&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=052-Usman&theme=tokyo-night&hide_border=true&area=true&custom_title=Usman%20Virk's%20Contribution%20Graph" alt="Activity Graph" />
+</p>
+
+---
+
+### 🌍 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/usman-arshad-virk"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
@@ -77,9 +78,10 @@
 ### ✨ Fun Zone
 
 > 🧩 *“Code. Automate. Evolve.”*  
-> 💡 I believe every line of code should make life simpler and systems smarter.  
-> 🚀 Let’s build something that inspires!
+> 💡 Every line of code should make life simpler and systems smarter.  
+> 🚀 Let’s build something that inspires.
 
+<!-- Snake Animation -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
