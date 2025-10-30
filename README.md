@@ -25,11 +25,52 @@
 ### ⚙️ Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,typescript,tailwind,js,html,css,nodejs,express,nestjs,mongodb,postgres,aws,github,git,dynamodb" />
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,ts,tailwind" alt="Frontend" />
+  <br/>
+  <sub>Frontend: React · Next.js · Angular · TypeScript · Tailwind CSS</sub>
 </p>
 
-#### 🧠 AI & Automation
-`OpenAI API` · `LangChain` · `Pinecone` · `Puppeteer`
+<p align="center">
+  <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" alt="Backend" />
+  <br/>
+  <sub>Backend: Node.js · Express.js · NestJS</sub>
+</p>
+
+<p align="center">
+  <!-- Databases -->
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,dynamodb" alt="Databases" />
+  <br/>
+  <sub>Databases: MongoDB · PostgreSQL · DynamoDB</sub>
+</p>
+
+<p align="center">
+  <!-- Cloud & DevOps -->
+  <img src="https://skillicons.dev/icons?i=aws,githubactions" alt="Cloud & DevOps" />
+  <br/>
+  <sub>Cloud & DevOps: AWS (EC2, S3, Lambda, Route53) · GitHub Actions · CI/CD</sub>
+</p>
+
+<p align="center">
+  <!-- AI & Automation -->
+  <img src="https://skillicons.dev/icons?i=python" alt="AI Tools" />
+  <br/>
+  <sub>AI & Automation: OpenAI API · LangChain · Pinecone · Puppeteer</sub>
+</p>
+
+<!-- Simple CSS hover pulse animation -->
+<style>
+img:hover {
+  transform: scale(1.1);
+  transition: transform 0.3s ease;
+}
+img {
+  transition: transform 0.3s ease, opacity 0.6s ease-in-out;
+  opacity: 0.9;
+}
+</style>
+
 
 ---
 
