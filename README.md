@@ -1,20 +1,22 @@
-<!-- Header -->
-<h1 align="center">👋 Hey, I'm <span style="color:#58a6ff;">Usman Arshad Virk</span></h1>
+<!-- Banner -->
+<h1 align="center">
+  <img src="https://github.com/052-Usman/052-Usman/blob/main/assets/hand-wave.gif" width="40px" height="40px" alt="wave"/> 
+  Hey, I'm <span style="color:#58a6ff;">Usman Arshad Virk</span>
+</h1>
 <h3 align="center">🚀 Full-Stack Developer | Cloud Enthusiast | AI Innovator</h3>
 
-<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Building+Scalable+AI-Driven+Apps;Crafting+Cloud+%26+Serverless+Solutions;Turning+Ideas+into+Digital+Reality" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Building+Scalable+AI-driven+Web+Apps;Cloud+%26+Serverless+Solution+Architect;Turning+Ideas+into+Digital+Reality;Always+Learning+New+Things+🚀" alt="Typing Animation" />
 </p>
 
 ---
 
 ### 🧠 About Me
 
-💻 Passionate **Full-Stack Developer** focused on building **high-performance**, **AI-powered** web applications.  
-☁️ Skilled in **AWS**, **serverless systems**, and **DevOps automation**.  
-🧠 Exploring **LLM integrations**, **AI marketing tools**, and **data-driven automation**.  
-🎯 I thrive on designing systems that merge **intelligence**, **speed**, and **impact**.
+💻 A passionate **Full-Stack Developer** dedicated to building **high-performance**, **AI-powered** digital experiences.  
+☁️ Skilled in **AWS**, **serverless systems**, and **CI/CD pipelines** for scalable deployment.  
+🤖 Currently exploring **LLM integrations**, **AI marketing platforms**, and **intelligent automation**.  
+🎯 Focused on turning ideas into seamless, production-ready solutions.
 
 🌐 **Portfolio:** [usmanarshadvirk.vercel.app](https://usmanarshadvirk.vercel.app)
 
@@ -22,17 +24,9 @@
 
 ### ⚙️ Tech Arsenal
 
-#### 🧩 Frontend
-`React.js` · `Next.js` · `Angular` · `TypeScript` · `Tailwind CSS`
-
-#### 🧱 Backend
-`Node.js` · `Express.js` · `NestJS`
-
-#### 🗄️ Databases
-`MongoDB` · `PostgreSQL` · `DynamoDB`
-
-#### ☁️ Cloud & DevOps
-`AWS (EC2, S3, Lambda, Route53)` · `GitHub Actions` · `CI/CD`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,typescript,tailwind,js,html,css,nodejs,express,nestjs,mongodb,postgres,aws,github,git,dynamodb" />
+</p>
 
 #### 🧠 AI & Automation
 `OpenAI API` · `LangChain` · `Pinecone` · `Puppeteer`
@@ -41,24 +35,24 @@
 
 ### 🌟 Featured Projects
 
-🎯 **Marketing Platform** – AI-driven marketing automation with real-time analytics  
-🧩 **Transcribe & Analyze** – Transcript-based meeting intelligence dashboard  
-🔍 **Search Sphere** – Secure HTTPS migration + analytics management  
-🧠 **Tech Detector API** – NestJS-based technology detection using Puppeteer  
+🎯 **Marketing Platform** – AI-driven marketing automation with real-time insights  
+🧩 **Transcribe & Analyze** – Transcript-based meeting intelligence system  
+🔍 **Search Sphere** – Secure HTTPS migration and analytics dashboard  
+🧠 **Tech Detector API** – NestJS + Puppeteer for live tech signature detection  
 
-👉 **More on GitHub:** [github.com/052-Usman](https://github.com/052-Usman)
+👉 Explore more: [github.com/052-Usman](https://github.com/052-Usman)
 
 ---
 
-### 📊 GitHub Stats & Activity
+### 📊 GitHub Performance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=052-Usman&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" />
-  <img src="https://streak-stats.demolab.com?user=052-Usman&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=052-Usman&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://streak-stats.demolab.com?user=052-Usman&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=052-Usman&theme=tokyo-night&hide_border=true&area=true&custom_title=Usman%20Virk's%20Contribution%20Graph" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=052-Usman&theme=tokyo-night&hide_border=true&area=true&radius=10" alt="GitHub Activity Graph" />
 </p>
 
 ---
@@ -79,9 +73,14 @@
 
 > 🧩 *“Code. Automate. Evolve.”*  
 > 💡 Every line of code should make life simpler and systems smarter.  
-> 🚀 Let’s build something that inspires.
+> 🚀 Let’s build something that inspires!
 
-<!-- Snake Animation -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github.com/052-Usman/052-Usman/blob/main/assets/coding.gif" width="100%" alt="animated coding banner"/>
 </p>
